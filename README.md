@@ -1,4 +1,4 @@
-This is the link to the website- https://dineshsingh.z13.web.core.windows.net/
+
 Image Filter and Green Screen Composite
 Image Filter and Green Screen Composite is a web application designed for 
 generating filters on your image and to perform Green Screen Composition on 2 
